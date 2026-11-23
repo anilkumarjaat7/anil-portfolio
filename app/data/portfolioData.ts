@@ -5,7 +5,9 @@ export const projects = [
     title: 'Coaching Institute\nManagement System',
     detail: 'A practical platform concept spanning CRM, HRM, LMS, and a job portal — bringing the everyday operations of an institute into one connected workspace.',
     tags: ['Java', 'Spring Boot', 'React', 'MySQL'],
-    tone: 'cyan'
+    tone: 'cyan',
+    link: 'https://softcrayons.com/',
+    image: '/coaching-management.png'
   },
   {
     number: '02',
@@ -13,7 +15,9 @@ export const projects = [
     title: 'LMS Platform',
     detail: 'Learning experiences shaped around structured content, practical projects, and the tools students need to keep moving.',
     tags: ['Java', 'Spring Boot', 'React'],
-    tone: 'violet'
+    tone: 'violet',
+    link: 'https://softcrayons-lms.vercel.app/',
+    image: '/softcrayons-lms.png'
   },
   {
     number: '03',
@@ -21,7 +25,9 @@ export const projects = [
     title: 'E-Commerce\nApplication',
     detail: 'A full-stack application exercise focused on catalog, customer flows, and reliable backend integration.',
     tags: ['Java', 'REST APIs', 'Database'],
-    tone: 'green'
+    tone: 'green',
+    link: 'https://gkpublications.com/',
+    image: '/gk-publications.png'
   }
 ]
 
