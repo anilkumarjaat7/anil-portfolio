@@ -1,0 +1,20 @@
+# Anil Kumar
+
+Anil Kumar is a Java Full Stack Developer and technical trainer. He builds practical web applications and backend systems, explores AI-powered software solutions, and shares programming concepts through practical learning.
+
+## Professional identity
+- Java Full Stack Developer
+- Software Engineer
+- Technical Trainer
+- AI application explorer
+
+## Experience
+- Java Full Stack Developer at Softcrayons Tech Solutions Pvt. Ltd. (August 2025 – present)
+- Java Developer at Webearn Solutions Pvt. Ltd. (November 2021 – July 2025)
+
+## Focus
+Java, Spring Boot, React, Next.js, TypeScript, REST APIs, databases, microservices, LLM APIs, RAG, embeddings, and practical technical education.
+
+## Links
+- GitHub: https://github.com/anilkumarjaat7
+- LinkedIn: https://www.linkedin.com/in/anilkumarjaat
